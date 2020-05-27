@@ -1,0 +1,25 @@
+.caixainicial{
+width: 0px;
+align-content: center;
+padding: 80px;
+margin: auto;
+background:#e3e3e3;
+}
+body nav ul {
+    padding: 0px!important;
+    padding-left: 70px;
+}
+body nav ul li{
+
+    display: inline-block;
+    margin-left: 20px;
+    align-content: center;
+}
+body nav ul li a {
+    float: left;
+    color: red;
+    text-decoration: none;
+}
+body nav ul li a:hover {
+        color: #00bac6;
+}
